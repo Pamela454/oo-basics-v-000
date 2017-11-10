@@ -35,7 +35,6 @@ class Shoe
   def cobble
     puts "Your shoe is as good as new!"
     condition = "new"
-    puts condition
   end
 
   def condition= (new)
