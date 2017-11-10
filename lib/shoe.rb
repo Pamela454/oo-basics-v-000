@@ -37,7 +37,7 @@ class Shoe
   end
 
   def condition= (new)
-    @new == new
+    @new = new
   end
 
   def condition
